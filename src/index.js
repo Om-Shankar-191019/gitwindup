@@ -1,1 +1,1 @@
-console.log("first command v3");
+console.log("first command");
